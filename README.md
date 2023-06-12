@@ -14,6 +14,6 @@ Currently: Master's degree at University Stuttgart
 ### My top languages: ###
 
 <a href="https://github.com/s0tt">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=s0tt&layout=compact&hide=jupyter%20notebook,html,hack,assembly" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=s0tt&layout=compact&hide=jupyter%20notebook,html,hack,assembly,scilab" />
 </a>
 
