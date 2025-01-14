@@ -1,9 +1,9 @@
 ## Hi there 👋 ##
-Machine learning engineer based in Stuttgart, Germany. 
+Machine learning engineer. 
 Interested in fun side projects and new software technologies. 
 
-- :pushpin: ML Engineer - Video perception at Robert Bosch Gmbh, Stuttgart, Germany
-- 📫 How to reach me: s0tt@gmx.de
+- :pushpin: ML Engineer - Video perception
+- 📫 How to reach me: s0tt@gmx.
 
 ### My top languages: ###
 
